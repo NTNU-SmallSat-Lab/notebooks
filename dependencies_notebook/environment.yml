@@ -1,0 +1,9 @@
+dependencies:
+  - python=3.7
+  - numpy=1.19.*
+  - matplotlib=3.2.2
+  - pylint=2.5.3
+  - autopep8=1.5.4
+  - pytest=6.0.1
+  - spectral=0.19
+  - scipy=1.5.2
