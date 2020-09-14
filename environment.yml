@@ -8,3 +8,4 @@ dependencies:
   - spectral=0.19
   - scipy=1.5.2
   - imageio=2.4.1
+  - pyvideoreader=0.4.3
