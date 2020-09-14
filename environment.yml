@@ -9,4 +9,3 @@ dependencies:
   - scipy=1.5.2
   - imageio=2.4.1
   - opencv=4.4.0
-  - pyvideoreader=0.4.3
